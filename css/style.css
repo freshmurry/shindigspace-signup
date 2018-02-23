@@ -120,7 +120,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #FFF;
+    border-color: #2C3E50;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: "Helvetica",Helvetica,Arial,sans-serif;
@@ -267,11 +267,11 @@ header {
     color: #fff;
     background: rgba(252, 270, 90,.9);
     background-attachment: scroll;
-    /*background-image: url(../img/portfolio/venue.jpg);*/
-    /*background-image: url(http://www.publicdomainpictures.net/pictures/230000/velka/chicago-skyline-at-night-1505924392KrN.jpg);*/
-    background-color: #BDC3C7;
+    /*background-image: url(../img/portfolio/hypnotize.png);*/
+    background-image: url(https://ak5.picdn.net/shutterstock/videos/23648335/thumb/1.jpg);
+    background-color: #f8f8f8;
     background-position: center center;
-    /*background-repeat: none;*/
+    background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -282,7 +282,7 @@ header .intro-text .intro-lead-in {
     font-family: "Helvetica",Helvetica,Arial,sans-serif;
     font-size: 22px;
     color: #34495E;
-    text-shadow: 2px #000000;
+    /*text-shadow: 2px #333;*/
 }
 
 header .intro-text .intro-heading {
@@ -290,8 +290,8 @@ header .intro-text .intro-heading {
     font-family: "Helvetica",Helvetica,Arial,sans-serif;
     font-size: 80px;
     font-weight: 700;
-    text-shadow: 2px 2px 8px #000000;
-    color: #FAFAFA;
+    text-shadow: 2px 2px 8px #F9F9F9;
+    color: #34495E;
 }
 
 @media(min-width:768px) {
