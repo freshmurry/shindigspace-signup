@@ -268,7 +268,7 @@ header {
     background: rgba(252, 270, 90,.9);
     background-attachment: scroll;
     /*background-image: url(../img/portfolio/hypnotize.png);*/
-    background-image: url(https://ak5.picdn.net/shutterstock/videos/23648335/thumb/1.jpg);
+    background-image: url(http://geekslovebacon.com/wp-content/uploads/2014/01/clean-white-polygon-backgrounds-8.jpg);
     background-color: #f8f8f8;
     background-position: center center;
     background-repeat: none;
@@ -290,7 +290,7 @@ header .intro-text .intro-heading {
     font-family: "Helvetica",Helvetica,Arial,sans-serif;
     font-size: 80px;
     font-weight: 700;
-    text-shadow: 2px 2px 8px #F9F9F9;
+    text-shadow: 2px 2px 8px #333;
     color: #34495E;
 }
 
